@@ -11,7 +11,7 @@ public class Ifarme_Example {
 	static WebDriver driver;
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+		//launching browser
 		System.setProperty("webdriver.gecko.driver","C:\\Users\\Pooja\\Desktop\\Selenium\\Browser Driver\\geckodriver.exe");
 		WebDriver driver = new FirefoxDriver();
 		
